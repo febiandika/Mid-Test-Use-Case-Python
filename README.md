@@ -23,7 +23,7 @@ area environment and apartment conservation status.
 2. victoria.csv : Dataset file
 <br>
 <br>
-2. Question3
+3. Question3
 <br>
 Consists of 2 files:
 <br>
